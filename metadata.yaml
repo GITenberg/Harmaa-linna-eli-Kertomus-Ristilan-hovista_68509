@@ -1,0 +1,24 @@
+_repo: Harmaa-linna-eli-Kertomus-Ristilan-hovista_68509
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ingelius, A. G.
+    gutenberg_agent_id: '54804'
+    url: http://www.gutenberg.org/2009/agents/54804
+description: ''
+gutenberg_issued: '2022-07-12'
+identifiers:
+  gutenberg: '68509'
+language: fi
+pgterms:marc905: 20220621085548ingelius
+pgterms:marc906: '1925'
+pgterms:marc907: FI
+production_note: Sirkku-Liisa Häyhä-Karmakainen and Tapio Riikonen
+publication_note: Finland :Otto Andersin,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Harmaa linna: eli Kertomus Ristilän hovista'
+url: http://www.gutenberg.org/ebooks/68509
